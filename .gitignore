@@ -1,0 +1,8 @@
+build/
+data/*
+!data/.gitkeep
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/cnn_paper.synctex.gz
